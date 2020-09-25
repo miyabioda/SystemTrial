@@ -1,0 +1,17 @@
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\SystemTrial.exe.config
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\SystemTrial.exe
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\SystemTrial.pdb
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\MaterialSkin.dll
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\MetroFramework.Design.dll
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\MetroFramework.dll
+D:\vsdocu\SystemTrial\SystemTrial\bin\Debug\MetroFramework.Fonts.dll
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.csprojAssemblyReference.cache
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.Login.resources
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.Properties.Resources.resources
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.csproj.GenerateResource.cache
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.csproj.CoreCompileInputs.cache
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.csproj.CopyComplete
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.exe
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.pdb
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.Main.resources
+D:\vsdocu\SystemTrial\SystemTrial\obj\Debug\SystemTrial.UserAccount.resources
